@@ -10,11 +10,11 @@ Autor neručí za správnost měření, naměřených hodnost, charakteristik č
 ### [3E1 - Charakteristika žárovky](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3E/3E1/3E1.md) (Dosud nehodnoceno)
 ### [3E2 - Stejnosměrné obvody](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3E/3E2/3E2.md) (Dosud nehodnoceno)
 ### [3E3 - Střídavé obvody](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3E/3E3/3E3.md) (Dosud nehodnoceno)
-### 3F1 - Kontrola měřícího přístroje: ampérmetr, voltmetr
-### 3F2 - Práce s měřícími přístroji: odpor, kapacita, frekvence
-### 3F3 - Práce s měřícími přístroji: indukčnost
-### 3F4 - Napěťový zdroj: vnitřní odpor, zatěžovací char.
-### 3F5 - Práce s osciloskopem: usměrňovače
+### 3F1 - Kontrola měřícího přístroje: ampérmetr, voltmetr (Připravit do 20. 11. 2017)
+### 3F2 - Práce s měřícími přístroji: odpor, kapacita, frekvence (Připravit do 27. 11. 2017)
+### 3F3 - Práce s měřícími přístroji: indukčnost (Odevzdat do 06. 11. 2017)
+### 3F4 - Napěťový zdroj: vnitřní odpor, zatěžovací char. (Připravit do 06. 11. 2017)
+### 3F5 - Práce s osciloskopem: usměrňovače (Připravit do 13. 11. 2017)
 ### 3G1 - Voltampérová charakteristika diody
 ### 3G2 - Voltampérová charakteristika tranzistoru
 ### 3G3 - Frekvenční filtr
