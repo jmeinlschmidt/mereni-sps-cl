@@ -9,7 +9,7 @@ Autor neručí za správnost měření, naměřených hodnost, charakteristik č
 ## Seznam protokolů
 ### [3E1 - Charakteristika žárovky](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3E/3E1/3E1.md) (Dosud nehodnoceno)
 ### [3E2 - Stejnosměrné obvody](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3E/3E2/3E2.md) (Dosud nehodnoceno)
-### 3E3 - Střídavé obvody
+### [3E3 - Střídavé obvody](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3E/3E3/3E3.md) (Dosud nehodnoceno)
 ### 3F1 - Kontrola měřícího přístroje: ampérmetr, voltmetr
 ### 3F2 - Práce s měřícími přístroji: odpor, kapacita, frekvence
 ### 3F3 - Práce s měřícími přístroji: indukčnost
