@@ -9,12 +9,12 @@ Autor neručí za správnost měření, naměřených hodnost, charakteristik č
 ## Seznam protokolů
 ### [3E1 - Charakteristika žárovky](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3E/3E1/3E1.md) (Hodnocení výborné)
 ### [3E2 - Stejnosměrné obvody](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3E/3E2/3E2.md) (Hodnocení výborné)
-### [3E3 - Střídavé obvody](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3E/3E3/3E3.md) (Dosud nehodnoceno)
-### 3F1 - Kontrola měřícího přístroje: ampérmetr, voltmetr (Připravit do 20. 11. 2017)
-### 3F2 - Práce s měřícími přístroji: odpor, kapacita, frekvence (Připravit do 27. 11. 2017)
-### 3F3 - Práce s měřícími přístroji: indukčnost (Dosud nehodnoceno)
-### 3F4 - Napěťový zdroj: vnitřní odpor, zatěžovací char. (Odevzdat do 13. 11. 2017)
-### 3F5 - Práce s osciloskopem: usměrňovače (Připravit do 13. 11. 2017)
+### [3E3 - Střídavé obvody](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3E/3E3/3E3.md) (Hodnocení výborné)
+### 3F1 - Kontrola měřícího přístroje: ampérmetr, voltmetr (Hodnocení výborné)
+### 3F2 - Práce s měřícími přístroji: odpor, kapacita, frekvence (Hodnocení výborné)
+### 3F3 - Práce s měřícími přístroji: indukčnost (Hodnocení výborné)
+### 3F4 - Napěťový zdroj: vnitřní odpor, zatěžovací char. (Hodnocení výborné)
+### 3F5 - Práce s osciloskopem: usměrňovače (Hodnocení výborné)
 ### 3G1 - Voltampérová charakteristika diody
 ### 3G2 - Voltampérová charakteristika tranzistoru
 ### 3G3 - Frekvenční filtr
