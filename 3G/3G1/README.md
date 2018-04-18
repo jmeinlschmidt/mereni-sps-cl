@@ -14,4 +14,4 @@
      - Odpovědi na otázky - Popis osciloskopu téměř výborný, doplnit blokovým schématem a typy osciloskopů s různou úrovní digitalizace
      
 ### Ke stažení
-[3G1.docx](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3G/3G1/3G1.docx) | [3G1.pdf](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3F/3G1/3G1.pdf) | [3G1.xlsx](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3F/3G1/3G1.xlsx)
+[3G1.docx](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3G/3G1/3G1.docx) | [3G1.pdf](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3G/3G1/3G1.pdf) | [3G1.xlsx](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3G/3G1/3G1.xlsx)
