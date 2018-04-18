@@ -2,7 +2,7 @@
  - Vypracoval: Meinlschmidt Jakub
  - Spolupracoval: Kotek Lubomír
  - Třída: 3D/PRA2
- - Varianta: G2
+ - Varianta: G3
  - Datum: 19. 2. 2018
 
 ### Hodnocení
