@@ -12,6 +12,7 @@
  - Výtky:
      - Závěr - Zhodnotit, jak dlouho trvaly zákmity tlačítka a kolik jich je
      - Odpovědi na otázky - Popis osciloskopu téměř výborný, doplnit blokovým schématem a typy osciloskopů s různou úrovní digitalizace
+ - Hodnocení během měření v laboratoři: Výborné
      
 ### Ke stažení
 [3G5.docx](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3G/3G5/3G5.docx) | [3G5.pdf](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3G/3G5/3G5.pdf) | [obrázky](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3G/3G5/obrazky)
