@@ -15,11 +15,11 @@ Autor neručí za správnost měření, naměřených hodnost, charakteristik č
 ### 3F3 - Práce s měřícími přístroji: indukčnost (Hodnocení výborné)
 ### 3F4 - Napěťový zdroj: vnitřní odpor, zatěžovací char. (Hodnocení výborné)
 ### 3F5 - Práce s osciloskopem: usměrňovače (Hodnocení výborné)
-### 3G1 - Voltampérová charakteristika diody
+### 3G1 - Voltampérová charakteristika diody (Hodnocení chvalitebné)
 ### 3G2 - Voltampérová charakteristika tranzistoru
 ### 3G3 - Frekvenční filtr
 ### 3G4 - Sériový (R-L)-C obvod
-### 3G5 - Číslicový osciloskop
+### 3G5 - Číslicový osciloskop (Hodnocení výborné)
 ### 3H1 - Zesilovač
 ### 3H2 - Operační zesilovač
 ### 3H3 - A/D převodník
