@@ -1,9 +1,9 @@
-## 3F3 - Práce s měřícími přístroji: indukčnost
+## 3F2 - Práce s měřícími přístroji: odpor, kapacita, frekvence
  - Vypracoval: Meinlschmidt Jakub
  - Spolupracoval: Mokrejš Filip
  - Třída: 3D/PRA2
- - Varianta: F3
- - Datum: 30. 10. 2017
+ - Varianta: F2
+ - Datum: 27. 11. 2017
 
 ### Hodnocení
  - Datum odevzdání: *Neuvedeno*
@@ -13,5 +13,5 @@
  - Hodnocení během měření v laboratoři: *Neuvedeno*
      
 ### Ke stažení
-[3F3.docx](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3F/3F3/3F3.docx) | [3F3.pdf](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3F/3F3/3F3.pdf) | [3F3.xlsx](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3F/3F3/3F3.xlsx)
+[3F2.docx](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3F/3F2/3F2.docx) | [3F2.pdf](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3F/3F2/3F2.pdf) | [3F2.xlsx](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3F/3F2/3F2.xlsx)
 
