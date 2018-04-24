@@ -16,7 +16,7 @@
 - 3H2 - Výborné / Výborné
 - 3H3 - Zatím nehodnoceno / Výborné
 - 3H4 - Zatím nehodnoceno / Výborné
-- 3H5 - Zatím neodevzdáno / Chvalitebné
+- 3H5 - Zatím nevypracováno / Chvalitebné
 
 *Průměr - Zatím neměřeno*
 
@@ -25,6 +25,6 @@
 - 3H2 - 8
 - 3H3 - 12
 - 3H4 - 13
-- 3H5 - Zatím neodevzdáno
+- 3H5 - Zatím nevypracováno
 
 *Celkem - Zatím neměřeno*
