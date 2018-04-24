@@ -10,6 +10,7 @@
  - Odborný dozor: Ing. Michna Michal
  - Slovní hodnocení: **Zatím neměřeno**
  - Výtky: **Zatím neměřeno**
+ - Hodnocení během měření v laboratoři: **Zatím neměřeno**
      
 ### Ke stažení
 **Zatím neměřeno**
