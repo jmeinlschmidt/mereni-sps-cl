@@ -3,7 +3,7 @@
  - Spolupracoval: Kropáček Tomáš
  - Třída: 3D/PRA2
  - Varianta: H2
- - Datum: **Neuvedeno**
+ - Datum: 12. 3. 2018
 
 ### Hodnocení
  - Datum odevzdání: 23. 4. 2018
