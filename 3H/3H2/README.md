@@ -16,4 +16,4 @@
  - Hodnocení během měření v laboratoři: Výborné
      
 ### Ke stažení
-[3G2.docx](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3G/3G2/3G2.docx) | [3G2.pdf](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3G/3G2/3G2.pdf) | [3G2.xlsx](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3G/3G2/3G2.xlsx)
+[3H2.docx](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3H/3H2/3H2.docx) | [3H2.pdf](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3H/3H2/3H2.pdf) | [3H2.xlsx](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3H/3H2/3H2.xlsx)
