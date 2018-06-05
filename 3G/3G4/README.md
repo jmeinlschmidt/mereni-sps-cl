@@ -8,8 +8,9 @@
 ### Hodnocení
  - Datum odevzdání: 23. 4. 2018
  - Odborný dozor: Ing. Michna Michal
- - Slovní hodnocení: **Zatím nehodnoceno**
- - Výtky: **Zatím nehodnoceno**
+ - Slovní hodnocení: Výborné
+ - Výtky:
+     - Chyba u výpočtu fázového posunu
  - Hodnocení během měření v laboratoři: Výborné
      
 ### Ke stažení
