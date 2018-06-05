@@ -8,8 +8,12 @@
 ### Hodnocení
  - Datum odevzdání: 23. 4. 2018
  - Odborný dozor: Ing. Michna Michal
- - Slovní hodnocení: **Zatím nehodnoceno**
- - Výtky: **Zatím nehodnoceno**
+ - Slovní hodnocení: Výborné
+ - Výtky:
+     - Popis práce - Výborný
+     - Diferenciální odpor - 4 platné číslice (ne nutně desetinné)
+     - Vhodné do grafu vyznačit prahové napětí diod, popř. Zenerovo napětí
+     - Legenda grafu - Žlutá a červená dioda jsou LED diody (typ), charakteristika (U_AK místo U_A, napětí je vždy mezi dvěma body v obvodu)
  - Hodnocení během měření v laboratoři: Výborné
      
 ### Ke stažení
