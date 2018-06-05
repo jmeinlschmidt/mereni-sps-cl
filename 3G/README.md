@@ -12,13 +12,13 @@
 - 3G5 - Číslicový osciloskop
 
 ### Hodnocení
-- 3G1 - Zatím nehodnoceno
+- 3G1 - Výborné / Výborné
 - 3G2 - Chvalitebné / Chvalitebné
-- 3G3 - Zatím nehodnoceno
-- 3G4 - Zatím nehodnoceno
+- 3G3 - Výborné / Výborné
+- 3G4 - Výborné / Výborné
 - 3G5 - Výborné / Výborné
 
-*Průměr - Zatím nehodnoceno*
+*Průměr - 1.20*
 
 ### Počet stran
 - 3G1 - 10
