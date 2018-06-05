@@ -20,7 +20,7 @@ Autor neručí za správnost měření, naměřených hodnost, charakteristik č
 ### Hodnocení
 - Skupina 3E; *Průměr - 1.00*
 - Skupina 3F; *Průměr - 1.00*
-- Skupina 3G; *Průměr - ?*
+- Skupina 3G; *Průměr - 1.20*
 - Skupina 3H; *Průměr - ?*
 - Skupina 3I; *Průměr - ?*
 
@@ -77,12 +77,12 @@ Autor neručí za správnost měření, naměřených hodnost, charakteristik č
     - 3F5 - Výborné
     - *Průměr - 1.00*
 - Skupina 3G
-    - 3G1 - *Zatím nehodnoceno*
+    - 3G1 - Výborné
     - 3G2 - Chvalitebné
-    - 3G3 - *Zatím nehodnoceno*
-    - 3G4 - *Zatím nehodnoceno*
+    - 3G3 - Výborné
+    - 3G4 - Výborné
     - 3G5 - Výborné
-    - *Průměr - Zatím nehodnoceno*
+    - *Průměr - 1.20*
 - Skupina 3H
     - 3H1 - *Zatím nehodnoceno*
     - 3H2 - Výborné
