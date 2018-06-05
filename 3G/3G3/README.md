@@ -8,8 +8,11 @@
 ### Hodnocení
  - Datum odevzdání: 23. 4. 2018
  - Odborný dozor: Ing. Michna Michal
- - Slovní hodnocení: **Zatím nehodnoceno**
- - Výtky: **Zatím nehodnoceno**
+ - Slovní hodnocení: Výborné
+ - Výtky:
+     - Popis práce - Chybí některá slova
+     - Do charakteristik vyznačit mezní frekvence
+     - Závěr - Porovnat naměřenou a zadanou hodnotu mezních frekvencí a zjistit případné odchylky
  - Hodnocení během měření v laboratoři: Výborné
      
 ### Ke stažení
