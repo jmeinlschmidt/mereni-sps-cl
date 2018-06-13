@@ -15,16 +15,16 @@
 - 3H1 - Zatím nehodnoceno / Výborné
 - 3H2 - Výborné / Výborné
 - 3H3 - Výborné / Výborné
-- 3H4 - Zatím nehodnoceno / Výborné
-- 3H5 - Zatím neodevzdáno / Chvalitebné
+- 3H4 - Výborné / Výborné
+- 3H5 - Zatím nehodnoceno / Chvalitebné
 
-*Průměr - Zatím neměřeno*
+*Průměr - Zatím nehodnoceno*
 
 ### Počet stran
 - 3H1 - 7
 - 3H2 - 8
 - 3H3 - 12
 - 3H4 - 13
-- 3H5 - Zatím nevypracováno
+- 3H5 - 8
 
-*Celkem - Zatím neměřeno*
+*Celkem - 48 stran; Průměr - 9,6 strany na protokol*
