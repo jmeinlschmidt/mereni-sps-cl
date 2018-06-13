@@ -12,16 +12,16 @@
 - 3H5 - Klopné obvody
 
 ### Hodnocení
-- 3H1 - Zatím neměřeno
+- 3H1 - Zatím nehodnoceno / Výborné
 - 3H2 - Výborné / Výborné
-- 3H3 - Zatím nehodnoceno / Výborné
+- 3H3 - Výborné / Výborné
 - 3H4 - Zatím nehodnoceno / Výborné
-- 3H5 - Zatím nevypracováno / Chvalitebné
+- 3H5 - Zatím neodevzdáno / Chvalitebné
 
 *Průměr - Zatím neměřeno*
 
 ### Počet stran
-- 3H1 - Zatím neměřeno
+- 3H1 - 7
 - 3H2 - 8
 - 3H3 - 12
 - 3H4 - 13
