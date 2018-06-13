@@ -93,9 +93,9 @@ Autor neručí za správnost měření, naměřených hodnost, charakteristik č
 - Skupina 3I
     - 3I1 - *Zatím nehodnoceno*
     - 3I2 - *Zatím nehodnoceno*
-    - 3I3 - *Zatím nehodnoceno*
-    - 3I4 - *Zatím nehodnoceno*
-    - 3I5 - *Zatím nehodnoceno*
+    - 3I3 - *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
+    - 3I4 - *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
+    - 3I5 - *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
     - *Průměr - Zatím nehodnoceno*
     
 ### Počet stran
@@ -128,9 +128,9 @@ Autor neručí za správnost měření, naměřených hodnost, charakteristik č
 - Skupina 3I
     - 3I1 - *Zatím nehodnoceno*
     - 3I2 - *Zatím nehodnoceno*
-    - 3I3 - *Zatím nehodnoceno*
-    - 3I4 - *Zatím nehodnoceno*
-    - 3I5 - *Zatím nehodnoceno*
+    - 3I3 - *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
+    - 3I4 - *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
+    - 3I5 - *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
     - *Průměr - Zatím nehodnoceno*
 
 ### Datumy
@@ -159,6 +159,6 @@ Autor neručí za správnost měření, naměřených hodnost, charakteristik č
 - Skupina 3I
     - 3I1; *Meřeno - 11. 6. 2018; Odevzdáno - Neuvedeno*
     - 3I2; *Meřeno - 18. 6. 2018; Odevzdáno - Neuvedeno*
-    - 3I3; *Meřeno - Neuvedeno; Odevzdáno - Neuvedeno*
-    - 3I4; *Meřeno - Neuvedeno; Odevzdáno - Neuvedeno*
-    - 3I5; *Meřeno - Neuvedeno; Odevzdáno - Neuvedeno*
+    - 3I3; *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
+    - 3I4; *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
+    - 3I5; *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
