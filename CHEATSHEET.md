@@ -11,7 +11,9 @@
 - Bacha na předložky na konci řádku
 - Na konci stránky nesmí být samostatný nadpis, první nebo poslední řádek odstavce (raději vložit na další stránku)
 - Při tisku doporučuji jednostránkově
-- Jednotky veličin zapisovat do hranatých závorek! (nikoli kulatých)
+- Jednotky zapisovat do hranatých závorek! (nikoli kulatých)
+
+**Veličiny kurzívou, jednotky ne!**
 
 ### Zadání
 Zadání stačí zkopírovat a řádně naformátovat
