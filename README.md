@@ -86,13 +86,13 @@ Autor neručí za správnost měření, naměřených hodnost, charakteristik č
 - Skupina 3H
     - 3H1 - *Zatím nehodnoceno*
     - 3H2 - Výborné
-    - 3H3 - *Výborné*
-    - 3H4 - *Zatím nehodnoceno*
+    - 3H3 - Výborné
+    - 3H4 - Výborné
     - 3H5 - *Zatím nehodnoceno*
     - *Průměr - Zatím nehodnoceno*
 - Skupina 3I
     - 3I1 - *Zatím nehodnoceno*
-    - 3I2 - *Zatím nehodnoceno*
+    - 3I2 - *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
     - 3I3 - *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
     - 3I4 - *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
     - 3I5 - *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
@@ -123,8 +123,8 @@ Autor neručí za správnost měření, naměřených hodnost, charakteristik č
     - 3H2 - 8
     - 3H3 - 12
     - 3H4 - 13
-    - 3H5 - *Zatím nehodnoceno*
-    - *Průměr - Zatím nehodnoceno*
+    - 3H5 - 8
+    - *Celkem - 48 stran; Průměr - 9,6 strany na protokol*
 - Skupina 3I
     - 3I1 - *Zatím nehodnoceno*
     - 3I2 - *Zatím nehodnoceno*
@@ -155,7 +155,7 @@ Autor neručí za správnost měření, naměřených hodnost, charakteristik č
     - 3H2; *Meřeno - 12. 3. 2018; Odevzdáno - 23. 4. 2018*
     - 3H3; *Meřeno - 19. 3. 2018; Odevzdáno - 7. 5. 2018*
     - 3H4; *Meřeno - 9. 4. 2018; Odevzdáno - 7. 5. 2018*
-    - 3H5; *Meřeno - 23. 4. 2018; Odevzdáno - Neuvedeno*
+    - 3H5; *Meřeno - 23. 4. 2018; Odevzdáno - 14. 6. 2018*
 - Skupina 3I
     - 3I1; *Meřeno - 11. 6. 2018; Odevzdáno - Neuvedeno*
     - 3I2; *Meřeno - 18. 6. 2018; Odevzdáno - Neuvedeno*
