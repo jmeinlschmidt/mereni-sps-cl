@@ -3,14 +3,14 @@
  - Spolupracoval: Kropáček Tomáš
  - Třída: 3D/PRA2
  - Varianta: H1
- - Datum: **Zatím neměřeno**
+ - Datum: 21. 5. 2018
 
 ### Hodnocení
- - Datum odevzdání: **Zatím neměřeno**
+ - Datum odevzdání: 14. 6. 2018
  - Odborný dozor: Ing. Michna Michal
- - Slovní hodnocení: **Zatím neměřeno**
- - Výtky: **Zatím neměřeno**
- - Hodnocení během měření v laboratoři: **Zatím neměřeno**
+ - Slovní hodnocení: **Zatím nehodnoceno**
+ - Výtky: **Zatím nehodnoceno**
+ - Hodnocení během měření v laboratoři: Výborné
      
 ### Ke stažení
-**Zatím neměřeno**
+[3H1.docx](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3H/3H1/3H1.docx) | [3H1.pdf](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3H/3H1/3H1.pdf) | [3H1.xlsx](https://github.com/jmeinlschmidt/mereni-sps-cl/blob/master/3H/3H1/3H1.xlsx)
