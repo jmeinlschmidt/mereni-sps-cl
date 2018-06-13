@@ -1,6 +1,6 @@
 ## 3H1 - Zesilovač
  - Vypracoval: Meinlschmidt Jakub
- - Spolupracoval: Kropáček Tomáš
+ - Spolupracoval: Kropáček Tomáš, Vomáčka Pavel
  - Třída: 3D/PRA2
  - Varianta: H1
  - Datum: 21. 5. 2018
