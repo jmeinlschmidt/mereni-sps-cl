@@ -8,8 +8,8 @@
 ### Hodnocení
  - Datum odevzdání: 7. 5. 2018
  - Odborný dozor: Ing. Michna Michal
- - Slovní hodnocení: **Zatím nehodnoceno**
- - Výtky: **Zatím nehodnoceno**
+ - Slovní hodnocení: Výborné
+ - Výtky: -
  - Hodnocení během měření v laboratoři: Výborné
      
 ### Ke stažení
