@@ -1,6 +1,5 @@
 ## Skupina měření - 3F
  - Vypracoval: Meinlschmidt Jakub
- - Spolupracoval: Mokrejš Filip
  - Odborný dozor: Ing. Michna Michal
  - Třída: 3D/PRA2
  
