@@ -21,15 +21,15 @@ Autor neručí za správnost měření, naměřených hodnost, charakteristik č
 - Skupina 3E; *Průměr - 1.00*
 - Skupina 3F; *Průměr - 1.00*
 - Skupina 3G; *Průměr - 1.20*
-- Skupina 3H; *Průměr - ?*
-- Skupina 3I; *Průměr - ?*
+- Skupina 3H; *Průměr - 1.20*
+- Skupina 3I; *Průměr - 2.00*
 
 ### Počet stran
 - Skupina 3E; *Celkem - 18 stran; Průměr - 6 stran na protokol*
 - Skupina 3F; *Celkem - 48 stran; Průměr - 9,6 strany na protokol*
 - Skupina 3G; *Celkem - 44 stran; Průměr - 8,8 stran na protokol*
-- Skupina 3H; *?*
-- Skupina 3I; *?*
+- Skupina 3H; *Celkem - 48 stran; Průměr - 9,6 strany na protokol*
+- Skupina 3I; *Celkem - 6 stran; Průměr - 6 stran na protokol*
 
 ## Podrobný souhrn
 
@@ -84,19 +84,19 @@ Autor neručí za správnost měření, naměřených hodnost, charakteristik č
     - 3G5 - Výborné
     - *Průměr - 1.20*
 - Skupina 3H
-    - 3H1 - *Zatím nehodnoceno*
+    - 3H1 - Výborné
     - 3H2 - Výborné
     - 3H3 - Výborné
     - 3H4 - Výborné
-    - 3H5 - *Zatím nehodnoceno*
-    - *Průměr - Zatím nehodnoceno*
+    - 3H5 - Chvalitebné
+    - *Průměr - 1.20*
 - Skupina 3I
-    - 3I1 - *Zatím nehodnoceno*
-    - 3I2 - *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
+    - 3I1 - *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
+    - 3I2 - Chvalitebné
     - 3I3 - *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
     - 3I4 - *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
     - 3I5 - *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
-    - *Průměr - Zatím nehodnoceno*
+    - *Průměr - 2.00*
     
 ### Počet stran
 - Skupina 3E
@@ -126,12 +126,12 @@ Autor neručí za správnost měření, naměřených hodnost, charakteristik č
     - 3H5 - 8
     - *Celkem - 48 stran; Průměr - 9,6 strany na protokol*
 - Skupina 3I
-    - 3I1 - *Zatím nehodnoceno*
-    - 3I2 - *Zatím nehodnoceno*
+    - 3I1 - *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
+    - 3I2 - 6
     - 3I3 - *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
     - 3I4 - *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
     - 3I5 - *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
-    - *Průměr - Zatím nehodnoceno*
+    - *Celkem - 6 stran; Průměr - 6 stran na protokol*
 
 ### Datumy
 - Skupina 3E
@@ -157,8 +157,8 @@ Autor neručí za správnost měření, naměřených hodnost, charakteristik č
     - 3H4; *Meřeno - 9. 4. 2018; Odevzdáno - 7. 5. 2018*
     - 3H5; *Meřeno - 23. 4. 2018; Odevzdáno - 14. 6. 2018*
 - Skupina 3I
-    - 3I1; *Meřeno - 11. 6. 2018; Odevzdáno - Neuvedeno*
-    - 3I2; *Meřeno - 18. 6. 2018; Odevzdáno - Neuvedeno*
+    - 3I1; *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
+    - 3I2; *Meřeno - 11. 6. 2018; Odevzdáno - 25. 6. 2018*
     - 3I3; *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
     - 3I4; *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
     - 3I5; *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
