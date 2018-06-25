@@ -1,6 +1,5 @@
 ## Skupina měření - 3H
  - Vypracoval: Meinlschmidt Jakub
- - Spolupracoval: Kropáček Tomáš
  - Odborný dozor: Ing. Michna Michal
  - Třída: 3D/PRA2
  
