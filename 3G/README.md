@@ -1,6 +1,5 @@
 ## Skupina měření - 3G
  - Vypracoval: Meinlschmidt Jakub
- - Spolupracoval: Kotek Lubomír
  - Odborný dozor: Ing. Michna Michal
  - Třída: 3D/PRA2
  
