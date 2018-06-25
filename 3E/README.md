@@ -1,6 +1,5 @@
 ## Skupina měření - 3E
  - Vypracoval: Meinlschmidt Jakub
- - ~~Spolupracoval~~: Vypracováno samostatně
  - Odborný dozor: Ing. Michna Michal
  - Třída: 3D/PRA2
  
