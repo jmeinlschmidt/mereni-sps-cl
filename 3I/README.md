@@ -12,7 +12,7 @@
 
 ### Hodnocení
 - 3H1 - *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
-- 3H2 - Výborné / Výborné
+- 3H2 - Chvalitebné / Chvalitebné
 - 3H3 - *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
 - 3H4 - *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
 - 3H5 - *Vyňato z plánu (nestíhá se naměřit do klasifikace)*
