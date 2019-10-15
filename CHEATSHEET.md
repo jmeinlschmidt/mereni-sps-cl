@@ -34,6 +34,7 @@ Vždy je ale potřeba dodržovat jednotnou podobu. Platí nepsané pravidlo, že
 - Pozor na spojovník a pomlčku (ano, jsou to dvě rozlišné věci)
 - Nenechávat předložky na konci řádku (není to gramatická chyba, ale hůř se to čte, může se přehlédnout)
 - Na konci stránky nesmí být samostatný nadpis, první nebo poslední řádek odstavce (raději vložit na další stránku a na té původní nechat místo)
+- *Pro tip: V textu (např. **postup**) číslovky 1-9 včetně psát slovem, nikoli číslem (např. Připojil jsem vodič na jednu svorku.) (nikoliv ~Připojil jsem vodič na 1 svorku.~) Vypadá to líp*
 - Při tisku doporučuji jednostránkově (čili zadní strana bude prázdná = učitelé z toho dělají papíry na písemky)
 - Jednotky zapisovat do hranatých závorek! (nikoli kulatých)
 - **Veličiny kurzívou, jednotky ne!**
@@ -102,6 +103,6 @@ Bez komentáře.
 - Očekáváné/neočekávané situace, komplikace
 - Zda byly splněny všechny úkoly ze zadání
 - Co práce přinesla
-- Pro tip: Učitelé často čtou jen závěr (není vždy pravda, ozkoušeno)
+- *Pro tip: Učitelé často čtou jen závěr (není vždy pravda, ozkoušeno)*
 
 ![Meme](imma-head-out-small.png)
