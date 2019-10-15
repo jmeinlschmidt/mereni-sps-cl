@@ -102,5 +102,6 @@ Bez komentáře.
 - Očekáváné/neočekávané situace, komplikace
 - Zda byly splněny všechny úkoly ze zadání
 - Co práce přinesla
+- Pro tip: Učitelé často čtou jen závěr (není vždy pravda, ozkoušeno)
 
 ![Meme](imma-head-out-small.png)
