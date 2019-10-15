@@ -12,7 +12,7 @@ Autor **neručí** za správnost měření, naměřených hodnost, charakteristi
 ## Přispívání
 Repozitář je založený na dobročinnosti studentů. Pokud z něj čerpáte poznatky a naopak máte navíc některé vlastní myšlenky (nebo jste odhalili chybu), udělejte dobrou věc a nebojte se svou informací přispět.
 
-Příspívání proveďte 'forknutím' repozitáře, úpravou (vlastní příspění) a následným 'pull requestem' do původního repozitáře. Svou změnu prosím jasně okomentujte (drobné změny stačí - např. "gramatika"). Pomůžete tak studentům, kteří informace z repozitáře využijí po vás.
+Příspívání proveďte 'forknutím' repozitáře, úpravou (vlastní příspění) a následným 'pull requestem' do původního repozitáře. Svou změnu prosím jasně okomentujte (drobné změny stačí - např. "gramatika"). Pomůžete tak studentům, kteří informace z repozitáře využijí v budoucnu po vás.
 
 ## [Jak má vypadat protokol?](https://github.com/sps-cl/mereni-elektrotechnika/blob/master/CHEATSHEET.md/)
 Jednoduché shrnutí a poznatky na formátování, aby vaše práce prošla.
