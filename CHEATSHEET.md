@@ -16,7 +16,7 @@ Pokud vám vyučující protokol vrátí na přepracování, tak to má svůj d�
 
 ## Formátování ve Wordu
 
-Platí několik pravidel, které využijete i při psaní ročníkové / maturitní práce na průmyslovce. Ovšem je **vždy potřeba se zajímat o požadované formátování**. Každá instituce může vyžadovat jiné. Nelze tedy říct, že to či ono je správné. Vždy je potřeba si zjistit zadání a jím se pevně řídit.
+Platí několik pravidel, které využijete i při psaní ročníkové / maturitní práce na průmyslovce. Ovšem je **vždy potřeba se zajímat o požadované formátování**. Každá instituce (např. vysoká škola) může vyžadovat jiné. Nelze tedy říct, že to či ono je správné. Vždy je potřeba si zjistit zadání a jím se pevně řídit. Argumenty, že na střední se to dělalo takhle, v 99% případů neobstojí.
 
 Vždy je ale potřeba dodržovat jednotnou podobu. Platí nepsané pravidlo, že když už to máte blbě, tak aspoň ať i vše ostatní máte taky stejně blbě. :blush: **Bude to samozřejme pořád blbě, ale aspoň to bude vypadat o trošku líp než jenom blbě.**
 
