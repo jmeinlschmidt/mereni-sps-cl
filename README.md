@@ -1,5 +1,5 @@
 # Měření
-Předmět elektrotechnika, měření úloh v laboratoři ve 3. ročníku oboru **Informační technologie** na [sps-cl](https://sps-cl.cz/).
+Předmět elektrotechnika, měření úloh v laboratoři ve třetím ročníku oboru **Informační technologie** na [sps-cl](https://sps-cl.cz/).
 
 ## Úvod
 Neoficiální repozitář obsahující vypracované úlohy a protokoly z měření v laboratoři elektrotechniky. Jakékoliv přispění (chybějící protokoly, nalezené chyby, překlepy) nebo vlastní řešení jsou vítány.
