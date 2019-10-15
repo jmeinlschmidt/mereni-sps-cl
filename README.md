@@ -7,7 +7,7 @@ Neoficiální repozitář obsahující vypracované úlohy a protokoly z měřen
 Repozitář je spravován studenty školy, avšak přispění ze strany učitelů je také vítáno.
 
 ## Upozornění
-Autor **neručí** za správnost měření, naměřených hodnost, charakteristik či za jakékoliv jiné informace uvedené v jednotlivých protokolech. Protokoly slouží pouze pro osobní účely autora a neslouží jako návod pro jejich napodobování. Tím se autor vzdává jakékoliv odpovědnosti za škody vzniklé při využití poznatků nebo jiných informací z uvedených protokolů.
+Autor **neručí** za správnost měření, naměřených hodnost, charakteristik či za jakékoliv jiné informace uvedené v tomto repozitáři. Vypracované úlohy slouží pouze pro osobní účely autora a neslouží jako návod pro jejich napodobování. Tím se autor vzdává jakékoliv odpovědnosti za škody vzniklé při využití poznatků nebo jiných informací z uvedených protokolů.
 
 ## Přispívání
 Repozitář je založený na dobročinnosti studentů. Pokud z něj čerpáte poznatky a naopak máte navíc některé vlastní myšlenky (nebo jste odhalili chybu), udělejte dobrou věc a nebojte se svou informací přispět.
