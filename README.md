@@ -14,6 +14,8 @@ Repozitář je založený na dobročinnosti studentů. Pokud z něj čerpáte po
 
 Příspívání proveďte 'forknutím' repozitáře, úpravou (vlastní příspění) a následným 'pull requestem' do původního repozitáře. Svou změnu prosím jasně okomentujte (drobné změny stačí - např. "gramatika"). Pomůžete tak studentům, kteří informace z repozitáře využijí v budoucnu po vás.
 
+Případně využijte záložku [issues](https://github.com/sps-cl/mereni-elektrotechnika/issues) a daný problém nebo nápad na zlepšení vytvořte task a někdo se ho ujme.
+
 ## [Jak má vypadat protokol?](https://github.com/sps-cl/mereni-elektrotechnika/blob/master/CHEATSHEET.md/)
 Jednoduché shrnutí a poznatky na formátování, aby vaše práce prošla.
 
