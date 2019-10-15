@@ -21,7 +21,7 @@ Platí několik pravidel, které využijete i při psaní ročníkové / maturit
 Vždy je ale potřeba dodržovat jednotnou podobu. Platí nepsané pravidlo, že když už to máte blbě, tak aspoň ať i vše ostatní máte taky stejně blbě. :blush: **Bude to samozřejme pořád blbě, ale aspoň to bude vypadat o trošku líp než jenom blbě.**
 
 
-**Pro protokoly (a zhruba celou průmyslovku platí):**
+**Pro protokoly (a zhruba celou průmyslovku platí, s malými odchylkami):**
 - Velikost základního písma 12 bodů
 - Zarovnání do bloku
 - Řádkování 1.5
@@ -37,6 +37,18 @@ Vždy je ale potřeba dodržovat jednotnou podobu. Platí nepsané pravidlo, že
 - Při tisku doporučuji jednostránkově (čili zadní strana bude prázdná = učitelé z toho dělají papíry na písemky)
 - Jednotky zapisovat do hranatých závorek! (nikoli kulatých)
 - **Veličiny kurzívou, jednotky ne!**
+
+A na závěr - v protokolu se vyjadřujte jasně a srozumitelně. **Příklad:**
+
+Špatně
+```
+Oholil jsem kabel
+```
+
+Správně
+```
+Odstranil jsem ilozaci vodiče
+```
 
 ### Co se zadáním?
 
