@@ -90,3 +90,5 @@ Bez komentáře.
 - Očekáváné/neočekávané situace, komplikace
 - Zda byly splněny všechny úkoly ze zadání
 - Co práce přinesla
+
+![Meme](imma-head-out-small.png)
