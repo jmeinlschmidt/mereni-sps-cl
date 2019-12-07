@@ -10,7 +10,7 @@ Klíčovým důvodem, proč meření děláme, je mít možnost si v praxi doká
 - **Práce s editorem rovnic ve Wordu**. Výraz zapsaný jako `f0=(1/2*pi)*odmocnina((L*C)^(-1))` patří někam do programu, ale ne do odborné (za rok maturitní) práce. Špatně se to čte a navíc v tom lze snadno něco přehlédnout, čili udělat chybu. Zbytečně za to letí body dolů za nečitelnost.
 - **Příprava na maturitu**. Elektrotechnika je zhruba polovina z 25 otázek maturitního předmětu Hardware. Pokud si tyto úlohy poctivě vypracujeme (**a skutečně si budem psát, jak jsme to dělali a jak se obvod choval!!!**), tak máme polovinu učení za sebou a to se vyplatí ne? Při učení na maturitu se pak stačí už jen podívat na vlastní vypracované úlohy a není potřeba hledat někde na internetu nebo v prezentacích.
 
-Pokud vám vyučující protokol vrátí na přepracování, tak to má svůj důvod (opravdu chceme, abyste se naučili dělat práci tímto způsobem). Nebojujte s tím, smiřte se s tím. Tenhle repozitář vám má pomoct, stačí trochu snahy a věnovat tomu čas. Zvládli jsme to (skoro) všichni. Malá rada na závěr - lehčí už to nikdy nebude :disappointed:
+Pokud vám vyučující protokol vrátí na přepracování, tak to má svůj důvod (opravdu chceme, abyste se naučili dělat práci tímto způsobem). Nebojujte s tím, smiřte se s tím. Tenhle repozitář vám má pomoct, stačí trochu snahy a věnovat tomu čas. Zvládli jsme to (skoro) všichni. Malá rada na závěr - lehčí už to nikdy nebude.
 
 ![Oprasek](se-s-tim-smir-small.png)
 
