@@ -12,7 +12,7 @@ Autor **neručí** za správnost měření, naměřených hodnost, charakteristi
 ## Přispívání
 Repozitář je založený na dobročinnosti studentů. Pokud z něj čerpáte poznatky a naopak máte navíc některé vlastní myšlenky (nebo jste odhalili chybu), udělejte dobrou věc a nebojte se svou informací přispět.
 
-Příspívání proveďte 'forknutím' repozitáře, úpravou (vlastní příspění) a následným 'pull requestem' do původního repozitáře. Svou změnu prosím jasně okomentujte (drobné změny stačí - např. "gramatika"). Pomůžete tak studentům, kteří informace z repozitáře využijí v budoucnu po vás.
+Příspívání proveďte 'pull requestem'. Svou změnu prosím jasně okomentujte (drobné změny stačí - např. "gramatika"). Pomůžete tak studentům, kteří informace z repozitáře využijí v budoucnu po vás.
 
 Případně využijte záložku [issues](https://github.com/sps-cl/mereni-elektrotechnika/issues) a daný problém nebo nápad na zlepšení vytvořte task a někdo se ho ujme.
 
